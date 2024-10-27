@@ -1,0 +1,35 @@
+* {
+    font-style: italic;
+    color: darkred;
+}
+
+div.bold-text{
+    font-weight: 700;
+}
+div {
+    color:white;
+}
+body {
+    background-color:rgb(33, 32, 32);
+}
+/*to make classes declare selector with . */
+.alert {
+    color:green;
+}
+/*to declare ids use #*/
+#title {
+    color: chartreuse;
+}
+.read , 
+.unread {
+    color: white;
+    background-color: black;
+}
+.read {
+    /*this allows specific specs*/
+
+}
+img {
+    height: auto;
+    width: 500px;
+}
