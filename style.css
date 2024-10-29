@@ -1,6 +1,10 @@
 * {
     font-style: italic;
-    color: darkred;
+    color: white;
+    /*outline: 2px solid red;*/
+    padding: 6px;
+    margin: 5px;
+    border: 3px solid red;
 }
 
 div.bold-text{
@@ -32,4 +36,20 @@ body {
 img {
     height: auto;
     width: 500px;
+}
+h1 {
+    background-color: black;
+    color: red;
+    text-align: center;
+    font-size: 32px;
+}
+button {
+    background-color: black;
+    color: crimson;
+    
+}
+a {
+    padding: 0px;
+    margin: 0px;
+    border: 0px solid red;
 }
